@@ -19,3 +19,5 @@ const config: Config = {
   plugins: [],
 };
 export default config;
+
+// config. js file in Tailwind CSS serves as a central configuration hub for customizing the framework. It allows you to define colors, fonts, breakpoints, and more, tailoring Tailwind to fit your project's specific design and functionality requirements.
